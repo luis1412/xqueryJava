@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<coches>
+ <coche id="1">
+   <marca>Audi </marca>
+   <precio cuota="contado" moneda="euro">10000</precio>
+   <plazas>5</plazas>
+   <year-fabricacion>1/01/2012</year-fabricacion>
+   <comercial>Roberto Garcia</comercial>
+    <ciudad>Córdoba</ciudad>
+ </coche>
+
+ <coche id="2">
+   <marca>Renault </marca>
+   <precio cuota="financiado" moneda="euro">5000</precio>
+   <plazas>5</plazas>
+   <year-fabricacion>1/07/2012</year-fabricacion>
+   <fin>1/10/2020</fin>
+   <comercial>Miriam Gutiérrez</comercial>
+   <ciudad>Sevilla</ciudad>
+ </coche>
+
+ <coche id="3">
+   <marca>Volvo </marca>
+   <precio cuota="contado" moneda="euro">30000</precio>
+   <plazas>9</plazas>
+   <year-fabricacion>1/01/2012</year-fabricacion>
+   <comercial>Laura Mendiola</comercial>
+   <ciudad>Málaga</ciudad>
+ </coche>
+
+ <coche id="4">
+   <marca>Mazda</marca>
+   <precio cuota="contado" moneda="dolares">7500</precio>
+   <plazas>5</plazas>
+   <year-fabricacion>1/01/2019</year-fabricacion>
+   <comercial>Jesús Lozano</comercial>
+   <ciudad>Málaga</ciudad>
+ </coche>
+
+ <coche id="5">
+   <marca>Seat</marca>
+   <precio cuota="contado" moneda="dolares">3200</precio>
+   <plazas>5</plazas>
+   <year-fabricacion>1/08/2018</year-fabricacion>
+      <comercial>Jesús Lozano</comercial>
+   <ciudad>Madrid</ciudad>
+ </coche>
+ 
+ <coche id="6">
+   <marca>Jeep</marca>
+   <precio cuota="financiado" moneda="euro">35000</precio>
+   <plazas>5</plazas>
+   <year-fabricacion>1/08/2020</year-fabricacion>
+   <comercial>Miriam Gutierrez</comercial>
+   <ciudad>Madrid</ciudad>
+ </coche>
+</coches>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<venta>
+  <disponibles>
+    <id>1</id>
+    <id>2</id>
+	<id>6</id>
+  </disponibles>
+  <vendidos>
+    <id>3</id>
+    <id>4</id>
+	<id>5</id>
+  </vendidos>
+</venta>
